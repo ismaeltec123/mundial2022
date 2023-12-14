@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  body {
+    font-family: 'Helvetica Neue', sans-serif;  /*Fuente diferente */
+    background-color: #f5f5f5; /* Color de fondo más claro */
+    color: #333; /* Color de texto más oscuro */
+    margin: 0;
+  }
+  
+  h1 {
+    color: #e67e22; /* Color para los encabezados h1 */
+    text-align: center;
+  }
+  
+  h2 {
+    color: #1f497d; /* Color para los encabezados h2 */
+    border-bottom: 2px solid #1f497d; /* Línea inferior */ 
+    padding-bottom: 10px; /* Espacio inferior */
+    margin-bottom: 20px; /* Espacio inferior */ 
+  }
+  
+  .card {
+    margin: 20px; /* Espacio alrededor de la tarjeta */
+  }
+  
+  .price {
+    color: #e67e22; /* Colorea el precio */
+    font-size: 1.5em; /* Aumenta el tamaño del precio */
+    font-weight: bold; /* Resalta el precio */
+  }
+  
+  button {
+    background-color: #e67e22; /* Cambiar el color del botón */
+    color: white; 
+  }
+ 
+  h5{
+
+  }
